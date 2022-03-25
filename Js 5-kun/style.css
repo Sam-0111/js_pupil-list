@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+form {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+form input , form select{
+    padding: 5px 30px 5px 10px;
+    border: 1px solid #dc3545;
+    border-radius: 3px;
+    margin-left: 15px;
+    margin: 5px 0;
+}
